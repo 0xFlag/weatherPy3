@@ -1,4 +1,4 @@
-# weathercn
+# weatherPy3
 通过中国天气网weather.com.cn查询天气</br>
 </br>
 编程语言：Python3</br>
