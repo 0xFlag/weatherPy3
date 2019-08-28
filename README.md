@@ -18,3 +18,8 @@ tianqiapi.py 两个查询功能合并（3小时更新一次）</br>
 API接口文档：</br>
 https://www.tianqiapi.com/?action=v1</br>
 https://www.tianqiapi.com/?action=v6</br>
+现在查询需要添加appid和appsecret</br>
+否则直接报错：</br>
+errcode	100</br>
+errmsg	"参数不完整: appid或appsecret"</br>
+例：https://www.tianqiapi.com/api/?version=v1&cityid=城市&appid=1001&appsecret=5566
