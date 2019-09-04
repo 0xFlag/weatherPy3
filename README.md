@@ -22,4 +22,6 @@ https://www.tianqiapi.com/?action=v6</br>
 否则直接报错：</br>
 errcode	100</br>
 errmsg	"参数不完整: appid或appsecret"</br>
-例：https://www.tianqiapi.com/api/?version=v1&cityid=城市&appid=1001&appsecret=5566
+例：https://www.tianqiapi.com/api/?version=v1&cityid=城市&appid=1001&appsecret=5566</br>
+2019/09/04更新接口</br>
+https://www.tianqiapi.com/api/?version=v6&city=城市&appid=[appid]&appsecret=[appsecret]</br>
